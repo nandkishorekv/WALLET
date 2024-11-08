@@ -10,8 +10,7 @@ Prototype Link:
 🔗 Explore the Interactive Prototype
 
 Screenshots:
-<div align="center"> <img src="screenshots/home.png" alt="Home Screen" width="200"> <img src="screenshots/transaction.png" alt="Transaction Screen" width="200"> <img src="screenshots/settings.png" alt="Settings Screen" width="200"> </div>
-Add screenshots to the screenshots folder and replace the above paths as needed.
+<div align="center"> <img src="screenshots/home.png" alt="Home Screen" width="200"> <img src="screenshots/cards.png" alt="Cards Screen" width="200"> <img src="screenshots/statistics.png" alt="statistics Screen" width="200"> </div>
 
 Getting Started: Download the repository to explore the design assets.
 View the Prototype: Use the link above to view the interactive prototype in Figma.
